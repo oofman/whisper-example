@@ -1,0 +1,11 @@
+# Generated files
+.terraform
+.terraform.lock.hcl
+terraform.tfstate*
+
+# Private files
+mykey
+mykey.pub
+
+# Temp files
+main-ai.tf.old
